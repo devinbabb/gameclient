@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client
+END
+mudclient$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/mudclient$1.class
+END
+CameraModel.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/CameraModel.class
+END
+GameFrame$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/GameFrame$1.class
+END
+GameWindowMiddleMan.class
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/GameWindowMiddleMan.class
+END
+GameImage.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/GameImage.class
+END
+DataOperations.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/DataOperations.class
+END
+Mob.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/Mob.class
+END
+EngineHandle.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/EngineHandle.class
+END
+CameraVariables.class
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/CameraVariables.class
+END
+StreamClass.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/StreamClass.class
+END
+Inputs.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/Inputs.class
+END
+PacketConstruction.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/PacketConstruction.class
+END
+mudclient.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/mudclient.class
+END
+DataEncryption.class
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/DataEncryption.class
+END
+Message.class
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/Message.class
+END
+GameFrame.class
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/GameFrame.class
+END
+AudioReader.class
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/AudioReader.class
+END
+Mp3$1.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/Mp3$1.class
+END
+RSA.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/RSA.class
+END
+GameImageMiddleMan.class
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/GameImageMiddleMan.class
+END
+Camera.class
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/Camera.class
+END
+MessageQueue.class
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/MessageQueue.class
+END
+DataFileDecrypter.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/DataFileDecrypter.class
+END
+Mp3.class
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/Mp3.class
+END
+Model.class
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/Model.class
+END
+GameWindow.class
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/GameWindow.class
+END
+DataFileVariables.class
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/DataFileVariables.class
+END
+Menu.class
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/Menu.class
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/darkquest/!svn/ver/80/DarkQuest%20Client
+END
+.project
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/.project
+END
+build.xml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build.xml
+END
+.classpath
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/darkquest/!svn/ver/8/DarkQuest%20Client/.classpath
+END
+config.properties
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/darkquest/!svn/ver/9/DarkQuest%20Client/config.properties
+END

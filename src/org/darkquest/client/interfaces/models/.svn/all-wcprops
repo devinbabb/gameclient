@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/darkquest/!svn/ver/73/DarkQuest%20Client/src/org/darkquest/client/interfaces/models
+END
+IButton.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/src/org/darkquest/client/interfaces/models/IButton.java
+END
+ILabel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/darkquest/!svn/ver/73/DarkQuest%20Client/src/org/darkquest/client/interfaces/models/ILabel.java
+END
+IPanel.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/darkquest/!svn/ver/21/DarkQuest%20Client/src/org/darkquest/client/interfaces/models/IPanel.java
+END
+OnMisClickCallBack.java
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/src/org/darkquest/client/interfaces/models/OnMisClickCallBack.java
+END
+Callback.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/src/org/darkquest/client/interfaces/models/Callback.java
+END
+RSGuiModels.java
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/src/org/darkquest/client/interfaces/models/RSGuiModels.java
+END
+ISprite.java
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/src/org/darkquest/client/interfaces/models/ISprite.java
+END
+HoverCallback.java
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/src/org/darkquest/client/interfaces/models/HoverCallback.java
+END
+ILine.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/src/org/darkquest/client/interfaces/models/ILine.java
+END

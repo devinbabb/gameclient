@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/interfaces/models
+END
+HoverCallback.class
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/interfaces/models/HoverCallback.class
+END
+ILine.class
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/interfaces/models/ILine.class
+END
+IButton.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/interfaces/models/IButton.class
+END
+ILabel.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/interfaces/models/ILabel.class
+END
+IPanel.class
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/interfaces/models/IPanel.class
+END
+OnMisClickCallBack.class
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/interfaces/models/OnMisClickCallBack.class
+END
+Callback.class
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/interfaces/models/Callback.class
+END
+RSGuiModels.class
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/interfaces/models/RSGuiModels.class
+END
+ISprite.class
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/build/org/rscangel/client/interfaces/models/ISprite.class
+END

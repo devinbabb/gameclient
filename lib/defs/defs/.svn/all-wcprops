@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/lib/defs/defs
+END
+EntityDef.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/lib/defs/defs/EntityDef.class
+END
+TileDef.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/lib/defs/defs/TileDef.class
+END
+ItemDef.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/lib/defs/defs/ItemDef.class
+END
+SpellDef.class
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/lib/defs/defs/SpellDef.class
+END
+GameObjectDef.class
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/lib/defs/defs/GameObjectDef.class
+END
+NPCDef.class
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/lib/defs/defs/NPCDef.class
+END
+PrayerDef.class
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/lib/defs/defs/PrayerDef.class
+END
+DoorDef.class
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/lib/defs/defs/DoorDef.class
+END
+ElevationDef.class
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/darkquest/!svn/ver/4/DarkQuest%20Client/lib/defs/defs/ElevationDef.class
+END
